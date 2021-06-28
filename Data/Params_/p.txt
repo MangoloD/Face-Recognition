@@ -1,0 +1,11 @@
+37 | train_loss:0.03478 | train_acc:0.9840 | train_r2:0.8589
+37 | val_loss：0.03727  |  val_acc：0.9834 | val_r2：0.8656
+[12]: The params is saved successfully...
+
+38 | train_loss:0.03234 | train_acc:0.9848 | train_r2:0.8625
+38 | val_loss：0.03722  |  val_acc：0.9841 | val_r2：0.8661
+[12]: The params is saved successfully...
+
+46 | train_loss:0.02805 | train_acc:0.9876 | train_r2:0.8639
+46 | val_loss：0.03620  |  val_acc：0.9844 | val_r2：0.8702
+[12]: The params is saved successfully...
